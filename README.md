@@ -16,9 +16,8 @@ The codebase is strictly modular, separating the frontend, AI logic, and data pr
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/RotemEzra24/AI-data-researcher.git](https://github.com/RotemEzra24/AI-data-researcher.git)
-   cd AI-data-researcher
-   pip install -r requirements.txt
+   git clone https://github.com/RotemEzra24/tlv-shelter.git
+   cd tlv-shelter
 
 
 
